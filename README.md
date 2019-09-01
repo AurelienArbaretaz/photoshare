@@ -10,4 +10,4 @@ Angular 8 & Express File Upload Tutorial with Reactive Forms -  Learn to upload 
 - Start the MEAN Stack backend
   - `cd backend` to enter into the backend folder
   - `nodemon server` to start the nodemon server
-  - `mongod` to start the mongoDB shell# mean-stack-file-upload
+  - `mongod` to start the mongoDB shell
